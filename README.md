@@ -56,6 +56,11 @@ Development. Manually run the script providing the key:<br>
 8. Setup complete!
 
 ## Running
-Sample get_raw_data.py: **python get_raw_data.py --symbols IBM AAPL --apikey OTRF8D4LW9QFUFLS**<br>
-Sample financial_data GET query: **http://localhost/api/v1/financial_data&symbol=IBM**<br>
-Sample statistics GET query: **http://localhost/api/v1/statistics?start_date=2023-03-21&end_date=2023-03-14&symbol=AAPL**<br>
+Sample get_raw_data.py:<br>
+**python get_raw_data.py --symbols IBM AAPL --apikey OTRF8D4LW9QFUFLS**<br>
+
+Sample financial_data GET query:<br>
+**http://localhost/api/v1/financial_data&symbol=IBM**<br>
+
+Sample statistics GET query:<br>
+**http://localhost/api/v1/statistics?start_date=2023-03-21&end_date=2023-03-14&symbol=AAPL**<br>
