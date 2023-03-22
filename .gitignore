@@ -1,0 +1,4 @@
+data/
+financial/__pycache__
+financial/.pytest_cache
+.python-version
